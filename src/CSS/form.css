@@ -1,0 +1,37 @@
+*{
+    border: none;
+}
+.field{
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #e4e4e6;  
+}
+.field:focus{
+    outline: 1;
+    outline-color: #99d5e9;
+}
+.formButton{
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    background-color: rgb(63, 45, 1);
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.datePicker{
+    width: 100%;
+    background-color: #EFF0F2;  
+    outline: #99d5e9;
+    
+}
+.errorMessage{
+    color: red;
+    text-align: left;
+    padding-left: 5px;
+    }
+
+    
